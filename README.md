@@ -10,7 +10,7 @@ Here are the following steps in order to run the code locally or in the cloud:
 1. Clone the repo: `git clone https://github.com/RyanBrew/Melanoma-Detection`
 2. Run the notebook!
 
-If you encounter any errors during installation, don't hesitate and open an [issue](https://github.com/EricAlcaide/MiniFold/issues).
+If you encounter any errors during installation, don't hesitate and open an [issue](https://github.com/RyanBrew/Melanoma-Detection/issues).
 
 
 ### Future
@@ -45,5 +45,7 @@ By participating in this project, you agree to abide by the thoughtbot [code of 
 ### Meta
  
 * **Author's GitHub Profile**: [Ryan Brewer](https://github.com/RyanBrew/)
-* **Twitter**: [@eric_alcaide](https://twitter.com/ryanprograms)
+* **Twitter**: [@RyanPrograms](https://twitter.com/ryanprograms)
 * **Email**: ryanbrew13@gmail.com
+
+* **ReadMe Template**: [@EricAlcaide](https://github.com/EricAlcaide/MiniFold)
