@@ -1,10 +1,10 @@
-#### Melanoma Detection
-## Summary
+# Melanoma Detection
+### Summary
 
 Sebastian Thrun, Co-Founder of Udacity, created an algorithm that can detect Melanoma as well as many other skin diseases just from a photo. Himself as well as two graduate students at the University of Stanford created the model on 130,000 images of skin lesions from the ISIC database.
 
 
-## Running on your computer
+### Running on your computer
 
 Here are the following steps in order to run the code locally or in the cloud:
 1. Clone the repo: `git clone https://github.com/RyanBrew/Melanoma-Detection`
@@ -13,18 +13,14 @@ Here are the following steps in order to run the code locally or in the cloud:
 If you encounter any errors during installation, don't hesitate and open an [issue](https://github.com/EricAlcaide/MiniFold/issues).
 
 
-## Future
+### Future
 
 * Train with crops of 1024x1024, not windows of 512x512.
 * Use data from multiple sources instead of only ISIC
 * Set up a cloud instance to train a much deeper model than the current AlexNet solution.
 * Train with more data (in the cloud?)
-* ...
 
-*"Science is a Work In Progress."*
-
-
-## Limitations
+### Limitations
 
 This project has been developed in a few days by 1 person and, therefore, many limitations have appeared.
 They will be listed below in order to give a sense about what this project is and what it's not.
@@ -38,7 +34,7 @@ They will be listed below in order to give a sense about what this project is an
 Due to these limitations and/or constraints, the precission/accuracy the methods here developed can achieve is limited when compared against SOTA algorithms.
 
 
-## Contribute
+### Contribute
 Hey there! New ideas are welcome: open/close issues, fork the repo and share your code with a Pull Request.
 Clone this project to your computer:
  
@@ -46,7 +42,7 @@ Clone this project to your computer:
  
 By participating in this project, you agree to abide by the thoughtbot [code of conduct](https://thoughtbot.com/open-source-code-of-conduct)
  
-## Meta
+### Meta
  
 * **Author's GitHub Profile**: [Ryan Brewer](https://github.com/RyanBrew/)
 * **Twitter**: [@eric_alcaide](https://twitter.com/ryanprograms)
