@@ -1,4 +1,4 @@
-## Melanoma Detection
+#### Melanoma Detection
 ## Summary
 
 Sebastian Thrun, Co-Founder of Udacity, created an algorithm that can detect Melanoma as well as many other skin diseases just from a photo. Himself as well as two graduate students at the University of Stanford created the model on 130,000 images of skin lesions from the ISIC database.
