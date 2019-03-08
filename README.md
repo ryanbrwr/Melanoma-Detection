@@ -12,6 +12,13 @@ Here are the following steps in order to run the code locally or in the cloud:
 
 If you encounter any errors during installation, don't hesitate and open an [issue](https://github.com/RyanBrew/Melanoma-Detection/issues).
 
+## Data 
+
+The data has been made available by Udacity through the ISIC database.
+
+* [training](https://s3-us-west-1.amazonaws.com/udacity-dlnfd/datasets/skin-cancer/train.zip)
+* [validation](https://s3-us-west-1.amazonaws.com/udacity-dlnfd/datasets/skin-cancer/valid.zip)
+* [testing](https://s3-us-west-1.amazonaws.com/udacity-dlnfd/datasets/skin-cancer/test.zip)
 
 ### Future
 
